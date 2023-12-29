@@ -91,4 +91,4 @@ Welcome to the Personal Finance Management App! This Python-powered application 
 
 We would like to express our gratitude to the open-source community and contributors for making this project possible.
 
-Happy managing your finances with the Personal Finance Management App!
+Happy managing your finances with the Personal Finance Management App!!
