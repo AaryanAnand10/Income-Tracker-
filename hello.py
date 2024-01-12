@@ -4,7 +4,6 @@ def main():
   exp=int(expense)
   sal=int(salary)
   print("Your remaining balance is",sal-exp,"only")
-  print("Hello how are you : ")
 
 if __name__=="__main__":
   main()
