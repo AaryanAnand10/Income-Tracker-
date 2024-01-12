@@ -2,7 +2,7 @@
 
 Welcome to the Personal Finance Management App! This Python-powered application is designed to empower users in managing their finances efficiently, providing a user-friendly interface and a comprehensive set of features for a holistic financial experience.
 
-## Features
+## Featuress
 
 1. **User Sign-in and Authentication:**
    - Secure user registration and login system.
